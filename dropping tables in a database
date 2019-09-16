@@ -1,0 +1,5 @@
+# dbpractice
+database practice for that job
+
+
+engine.execute("""DROP TABLE [dbo].[ODS_GP_V02]""")
