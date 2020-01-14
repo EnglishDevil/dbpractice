@@ -1,0 +1,63 @@
+Ebacc Average point score (EBacc APS)
+"From 2018, the headline EBacc attainment measure will be an EBacc Average Point Score measure (APS) rather than a threshold measure. For further detail of how this is calculated see our published guidance. "
+"Note that English and maths components are based on the whole end key stage 4 cohort. Science, humanities and languages components are based on the number of entrants in those subjects."
+
+Progress 8 capping of extreme scores
+"From 2018, we now limit how negative a pupil's progress score can be when calculating the school average. These pupils still have large negative scores (to reflext that the pupils have made much less progress than other pupils in the same prior attainment group as them), but the disproportionate effect they have on a school's score has been reduced."
+"We do this by setting a minimum progress score that can be assigned to pupils within the prior attainment groups where extremely negative scores exist. There are prior attainment groups from 1to 18 (inclusive), where the average attainment 8 scores at key stage 4 for these groups are not high enough to allow for extreme negative progress scores."
+
+Reformed English and mathematics GCSEs
+"New GCSEs in English and mathematics were taught from September 2015 with the first examinations taking place in Summer 2017. New GCSEs in other subjects were phased in for first teaching from September 2016, continuing into 2017 and a very small number from 2018. "
+"To ensure all students benefit from the reformed qualifications, only the new GCSEs will be included in the secondary performance tables as they are introduced (for 2017, this includes only reformed GCSEs in English and mathematics. in 2018, this includes 20 further subjects. In 2019, this includes a further 25 subjects).  "
+"As part of these reforms, a new grading system is introduced from 2017 to replace the A to U system with a new 9 to 1 scale for new reformed GCSEs."
+Further details on specific performance measures is available below.
+
+"Percentage of pupils achieving a strong pass (grades 9-5) in both English and mathematics - ""the basics"" methodology change"
+"The threshold for the basics measure has changed in 2017 with the introduction of reformed GCSEs in English and mathematics, graded 9-1. "
+"In 2017, pupils must achieve a strong pass (grades 9-5) in either English Language or English Literature and a strong pass (grades 9-5) in mathematics to meet the criteria of the basics measure."
+"For transparency, and to help schools show progress, the proportion of pupils achieving a standard pass (grades 9-4) in English and mathematics is also published."
+"Prior to 2017 and based on the unreformed GCSE grade scale, pupils had to achieve a grade C or above."
+"In 2016, a pupil would have to achieve a C grade or above in either English Language or English Literature. There is no requirement to sit both. Alternatively, a pupil could achieve a C grade or above in Combined English."
+"In 2015 and previous years, a pupil must take exams in both English Language and English Literature, and achieve a C grade or better in English Language, or a C or better in Combined English."
+
+
+Percentage of pupils achieving the English Baccalaureate
+"The threshold for the English Baccalaureate achievement measure has changed in 2017 with the introduction of reformed GCSEs in English and mathematics, graded 9-1."
+"In 2017, pupils must achieve strong passes (grades 9-5) in both English and mathematics and A*-C grades in the remaining elements."
+"For transparency, the proportion of pupils achieving the English Baccalaureate with a standard pass (grades 9-4) in English and mathematics and A*-C grades in the remaining elements is also published."
+Prior to 2017 a pupil must achieve all elements of the English Baccalaureate with a C grade or better.
+
+
+English Baccalaureate English subject area
+"The threshold for this measure has changed in 2017 with the introduction of reformed GCSEs in English and mathematics, graded 9-1."
+"In 2017, a pupil must take exams in both English Language and English Literature, and achieve a strong pass (grades 9-5) in at least one of these qualifications."
+"For transparency, the proportion of pupils achieving a standard pass (grades 9-4) in this measure is also published."
+"Prior to 2017 and based on the unreformed GCSE grade scale, pupils had to achieve a grade C or above."
+"In 2016, a pupil must take exams in both English Language and English Literature, and achieve a C grade or better in at least one of these qualifications, or a C or better in Combined English."
+"In 2015 and previous years, a pupil must take exams in both English Language and English Literature, and achieve a C grade or better in English Language, or a C or better in Combined English."
+
+
+Percentage of pupils achieving the English Baccalaureate mathematics subject area
+"The threshold for this measure has changed in 2017 with the introduction of reformed GCSEs in English and mathematics, graded 9-1."
+"In 2017, a pupil must achieve a strong pass (grades 9-5) to achieve this measure."
+"For transparency, the proportion of pupils achieving a standard pass (grades 9-4) in this measure is also published."
+"Prior to 2017 and based on the unreformed GCSE grade scale, pupils had to achieve a grade C or above."
+
+
+Average entries
+The _3NG suffix has been added to variables relating to average number of GCSE and equivalent entries for 2016 and 2017.
+"In 2016 and 2017, three non-GCSE qualifications are counted in the average number of GCSE and equivalent entries figures, in line with Progress 8 methodology, which allows three non-GCSEs to count in the three open slots."
+"In 2015 and 2014, only two non-GCSE qualifications were counted in the average number of GCSE and equivalent entries figures."
+
+_PTQ suffix
+The _PTQ suffix has been added to variables relating to the 2013/14 academic year.
+"In 2013/14, two major reforms were implemented which affect the calculation of key stage 4 (KS4) performance measures data:"
+1) Professor Alison Wolf's Review of Vocational Education recommendations which:
+ - restrict the qualifications counted; 
+ - prevent any qualification from counting as larger than one GCSE; 
+ - cap the number of non-GCSEs included in performance measures at two per pupil
+"2) an early entry policy to only count a pupil's first attempt at a qualification, in subjects counted in the English Baccalaureate"
+
+_PTQ_EE suffix
+The _PTQ_EE suffix has been added to variables relating to the 2014/15 academic year.
+"In 2014/15, early entry policy, under which only a pupil's first attempt at a qualification is counted in performance measures, was extended from subjects counted in the English Baccalaureate, to all subjects."
