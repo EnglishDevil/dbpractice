@@ -1,6 +1,6 @@
 # dbpractice
 database practice for that job
-
+# this is a code piece
 
 query = """ USE [adamdb]
 
